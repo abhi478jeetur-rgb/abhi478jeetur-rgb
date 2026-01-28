@@ -1,33 +1,31 @@
 # Hey there! 👋
 
-I'm **Abhishek Jeet Roy**, a Full-Stack Developer and AI/ML Enthusiast from **Ranchi, India**. I'm passionate about building elegant solutions to complex problems and creating products that people love.
+I'm **Abhijeet Kumar**, a Full Stack Developer from **Ranchi, India**. I specialize in creating custom software solutions, building professional websites, and developing mobile & iPhone applications.
 
 ## 🚀 What I Do
 
-- **Full-Stack Development**: JavaScript, Python, React, Node.js
-- **SaaS Products**: Building and launching my own SaaS solutions
-- **AI/ML Projects**: Exploring machine learning and AI agents
-- **Open Source**: Contributing to the developer community
+- **Full-Stack Development**: Building complete end-to-end solutions
+- **Custom Software Development**: Tailored solutions for unique business needs
+- **Website Development**: Responsive and scalable web applications
+- **Mobile Development**: iPhone (iOS) and Android application development
+- **Professional Quality Code**: Clean, maintainable, and efficient code
 
 ## 💻 Tech Stack
 
-**Languages**: JavaScript | Python | HTML/CSS
-**Frontend**: React | Next.js | Tailwind CSS
-**Backend**: Node.js | Express | Flask
-**Databases**: MongoDB | PostgreSQL | Firebase
-**AI/ML**: TensorFlow | Scikit-learn | Google's Generative AI
-**Tools**: Git | Docker | AWS | Google Cloud
+**Languages**: JavaScript | Python | HTML/CSS | Swift (iOS)
+**Frontend**: React | Next.js | Tailwind CSS | Vue.js
+**Backend**: Node.js | Express | Django | Flask
+**Mobile**: React Native | Swift | Flutter
+**Databases**: MongoDB | PostgreSQL | Firebase | MySQL
+**Tools**: Git | Docker | AWS | Google Cloud | REST API | GraphQL
 
-## 🎯 Current Focus
+## 🎯 What I Offer
 
-- 🔨 Building innovative SaaS products
-- 📚 Learning advanced AI/ML concepts
-- 🌐 Creating scalable web applications
-- 💡 Solving real-world problems with code
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi478jeetur-rgb&show_icons=true&theme=dark)
+- 🔨 Custom Software Development
+- 🌐 Website Design & Development
+- 📱 Mobile App Development (iOS & Android)
+- 💡 Technical Consulting
+- 🚀 Full Stack Solutions
 
 ## 🤝 Let's Connect
 
@@ -37,9 +35,9 @@ I'm **Abhishek Jeet Roy**, a Full-Stack Developer and AI/ML Enthusiast from **Ra
 
 ## 📝 Latest Projects
 
-- **dino-cal**: A JavaScript-based project (Check it out in my repos!)
-- More SaaS projects coming soon...
+- **dino-cal**: A JavaScript-based calendar application
+- More projects coming soon...
 
 ---
 
-⭐️ **Feel free to explore my repositories and reach out if you want to collaborate!**
+⭐️ **Feel free to explore my repositories and reach out for collaboration or project inquiries!**
