@@ -31,7 +31,7 @@ I'm **Abhijeet Kumar**, a Full Stack Developer from **Ranchi, India**. I special
 
 - **LinkedIn**: [linkedin.com/in/abhi478jeetur](https://linkedin.com/in/abhi478jeetur)
 - **Twitter**: [@abhi478jeetur](https://twitter.com/abhi478jeetur)
-- **Email**: abhi478jeetur@gmail.com
+- **Email**: temprugf@gmail.com
 
 ## 📝 Latest Projects
 
