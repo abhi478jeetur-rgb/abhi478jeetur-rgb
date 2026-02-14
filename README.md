@@ -41,3 +41,23 @@ I'm **Abhijeet Kumar**, a Full Stack Developer from **Ranchi, India**. I special
 ---
 
 ⭐️ **Feel free to explore my repositories and reach out for collaboration or project inquiries!**
+
+
+## 🏆 GitHub Achievements
+
+Proud to have earned the following GitHub achievements:
+
+- **Quickdraw** - Closed issues quickly (within 5 minutes)
+- **Pull Shark** - Merged multiple pull requests
+- **YOLO** - Merged a pull request without a code review
+
+## 📊 Statistics
+
+- 🔗 Active on GitHub since 2024
+- 💼 Full Stack Developer with expertise in JavaScript, Python, and modern web technologies
+- 🎯 Focused on building scalable and maintainable solutions
+- 💡 Always learning and exploring new technologies
+
+---
+
+*Feel free to connect with me or explore my repositories for more details!*
