@@ -29,10 +29,10 @@ I'm **Abhijeet Kumar**, a Full Stack Developer from **Ranchi, India**. I special
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/abhi478jeetur](https://linkedin.com/in/abhi478jeetur)
+- **LinkedIn**: https://www.linkedin.com/in/abhijeet-kumar-4b6a083b0/
 - **Twitter**: https://x.com/Abhijeetkuumar
 - **Email**: temprugf@gmail.com
-
+- **Instgram**: https://www.instagram.com/hubberai/
 ## 📝 Latest Projects
 
 - **dino-cal**: A JavaScript-based calendar application
