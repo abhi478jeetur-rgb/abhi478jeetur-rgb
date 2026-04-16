@@ -65,3 +65,10 @@ Proud to have earned the following GitHub achievements:
 - 💡 Always learning and exploring new technologies
 
 Feel free to connect with me or explore my repositories for more details!
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi478jeetur-rgb/abhi478jeetur-rgb/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi478jeetur-rgb/abhi478jeetur-rgb/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/abhi478jeetur-rgb/abhi478jeetur-rgb/output/github-snake.svg">
+</picture>
