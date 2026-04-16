@@ -65,6 +65,7 @@ Proud to have earned the following GitHub achievements:
 - 💡 Always learning and exploring new technologies
 
 Feel free to connect with me or explore my repositories for more details!
+
 ## 🐍 Contribution Snake
 
 <picture>
