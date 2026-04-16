@@ -19,7 +19,9 @@ I'm **Abhijeet Kumar**, a Full Stack Developer & AI enthusiast from **Ranchi, In
 **Mobile**: Flutter | React Native | Swift
 **Databases**: MongoDB | PostgreSQL | Firebase | MySQL
 **Tools**: Git | Docker | AWS | Google Cloud | REST API | GraphQL
-## skillicons.dev
+## skillicons.dev<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,dart,swift,react,nextjs,tailwind,vue,nodejs,express,django,flask,flutter,mongodb,postgres,firebase,mysql,docker,aws,gcp,graphql,git" />
+</p>
 ## 🎯 What I Offer
 
 - 🔨 Custom Software Development
