@@ -63,5 +63,5 @@ Proud to have earned the following GitHub achievements:
 - 🤖 Building AI-powered tools and SaaS products
 - 🎯 Focused on building scalable and maintainable solutions
 - 💡 Always learning and exploring new technologies
-https://raw.githubusercontent.com/Gorav22/Gorav22/output/snake.svg
+
 Feel free to connect with me or explore my repositories for more details!
