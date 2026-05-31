@@ -1,71 +1,69 @@
-# Hey there! 👋
+# Hi, I'm Abhijeet Kumar 👋
 
-I'm **Abhijeet Kumar**, a Full Stack Developer & AI enthusiast from **Ranchi, India**. I specialize in creating custom software solutions, building professional websites, AI-powered applications, and developing mobile apps.
+I'm a developer from Ranchi, India, currently building **ChaseFree AI** — an AI invoicing assistant for freelancers.
 
-## 🚀 What I Do
+Right now, my focus is learning how to ship a real product in public: improving product UX, testing, AI integrations, and backend reliability.
 
-- **Full-Stack Development**: Building complete end-to-end solutions
-- **AI/ML Integration**: Building smart, AI-powered applications and tools
-- **Custom Software Development**: Tailored solutions for unique business needs
-- **Website Development**: Responsive and scalable web applications
-- **Mobile Development**: iOS and Android application development
-- **Professional Quality Code**: Clean, maintainable, and efficient code
+## What I'm building
 
-## 💻 Tech Stack
+### ChaseFree AI
+AI-powered invoicing workflow for freelancers, with a focus on late-payment follow-ups and reminder drafting.
 
-**Languages**: JavaScript | TypeScript | Python | Dart | HTML/CSS | Swift
-**Frontend**: React | Next.js | Tailwind CSS | Vue.js
-**Backend**: Node.js | Express | Django | Flask
-**Mobile**: Flutter | React Native | Swift
-**Databases**: MongoDB | PostgreSQL | Firebase | MySQL
-**Tools**: Git | Docker | AWS | Google Cloud | REST API | GraphQL
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,dart,swift,react,nextjs,tailwind,vue,nodejs,express,django,flask,flutter,mongodb,postgres,firebase,mysql,docker,aws,gcp,graphql,git" />
-</p>
+**Current stack**
+- Next.js
+- Supabase
+- NVIDIA NIM
+- Playwright
 
-## 🎯 What I Offer
+**Current focus**
+- Product polish
+- End-to-end testing
+- Secure configuration
+- Better user flows for real-world usage
 
-- 🔨 Custom Software Development
-- 🌐 Website Design & Development
-- 📱 Mobile App Development (iOS & Android)
-- 🤖 AI-Powered Application Development
-- 💡 Technical Consulting
-- 🚀 Full Stack Solutions
+## What I'm learning
 
-## 🤝 Let's Connect
+- Building and shipping SaaS products as a solo developer
+- Writing cleaner frontend and backend workflows
+- Testing real user flows with Playwright
+- Working with AI integrations in practical products
+- Improving product thinking, UX, and reliability
 
-- **Website**: [https://www.newaihubber.com/](https://www.newaihubber.com/)
-- **LinkedIn**: [https://www.linkedin.com/in/abhijeet-kumar-4b6a083b0/](https://www.linkedin.com/in/abhijeet-kumar-4b6a083b0/)
-- **Twitter / X**: [https://x.com/Abhijeetkuumar](https://x.com/Abhijeetkuumar)
-- **Instagram**: [https://www.instagram.com/hubberai/](https://www.instagram.com/hubberai/)
-- **Email**: [temprugf@gmail.com](mailto:temprugf@gmail.com)
+## Selected projects
 
-## 📝 Latest Projects
+- **[ai-invoise](https://github.com/abhi478jeetur-rgb/ai-invoise)** — ChaseFree AI, an invoicing assistant for freelancers
+- **[stremeni-ai](https://github.com/abhi478jeetur-rgb/stremeni-ai)** — a cross-platform AI keyboard experiment
+- **[video_machine](https://github.com/abhi478jeetur-rgb/video_machine)** — a Python-based video automation project
+- **[hubber-group-website](https://github.com/abhi478jeetur-rgb/hubber-group-website)** — a modern website project with polished UI work
+- **[awesome-developer-tools](https://github.com/abhi478jeetur-rgb/awesome-developer-tools)** — a curated developer tools collection
 
-- **[stremeni-ai](https://github.com/abhi478jeetur-rgb/stremeni-ai)**: A cross-platform AI keyboard experience with smart assistance
-- **[hubber-group-website](https://github.com/abhi478jeetur-rgb/hubber-group-website)**: Modern agency/portfolio-style website with polished UI
-- **[awesome-developer-tools](https://github.com/abhi478jeetur-rgb/awesome-developer-tools)**: Curated collection of useful developer tools and resources
-- **[video_machine](https://github.com/abhi478jeetur-rgb/video_machine)**: Python-based video automation project
-- **[dino-cal](https://github.com/abhi478jeetur-rgb/dino-cal)**: A JavaScript-based calendar application
+## Tech I work with
 
-⭐️ **Feel free to explore my repositories and reach out for collaboration or project inquiries!**
+- JavaScript / TypeScript
+- React / Next.js
+- Supabase
+- Python
+- Tailwind CSS
+- Playwright
+- Git / GitHub
 
-## 🏆 GitHub Achievements
+## GitHub activity
 
-Proud to have earned the following GitHub achievements:
+I've been actively using GitHub to build projects, open issues, and ship updates, especially around **ai-invoise / ChaseFree AI**.
 
-- **Quickdraw** - Closed issues quickly (within 5 minutes)
-- **Pull Shark** - Merged multiple pull requests
-- **YOLO** - Merged a pull request without a code review
-- **Pair Extraordinaire** - Coauthored commits with another contributor
+A few recent areas of work:
+- Feature updates
+- Light mode fixes
+- E2E test improvements
+- Environment and AI settings cleanup
+- Product structure and polish
 
-## 📊 Statistics
+## Connect
 
-- 🔗 Active on GitHub since 2024
-- 💼 Full Stack Developer with expertise in JavaScript, TypeScript, Python, and Dart
-- 🤖 Building AI-powered tools and SaaS products
-- 🎯 Focused on building scalable and maintainable solutions
-- 💡 Always learning and exploring new technologies
+- **X:** [@Abhijeetkuumar](https://x.com/Abhijeetkuumar)
+- **LinkedIn:** [linkedin.com/in/abhi478jeetur](https://linkedin.com/in/abhi478jeetur)
+- **Project:** [ai-invoise.vercel.app](https://ai-invoise.vercel.app/)
+- **Location:** Ranchi, India
 
 Feel free to connect with me or explore my repositories for more details!
 
