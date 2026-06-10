@@ -94,7 +94,6 @@ A few recent areas of work:
 - **X:** [@Abhijeetkuumar](https://x.com/Abhijeetkuumar)
 - **LinkedIn:** [linkedin.com/in/abhi478jeetur](https://linkedin.com/in/abhi478jeetur)
 - **Project:** [ai-invoise.vercel.app](https://ai-invoise.vercel.app/)
-- **Location:** Ranchi, India
 
 Feel free to connect with me or explore my repositories for more details!
 
