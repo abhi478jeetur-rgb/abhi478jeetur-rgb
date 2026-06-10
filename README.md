@@ -5,7 +5,7 @@
 <h1>Hi, I'm Abhijeet Kumar 👋</h1>
 
 <p>
-Developer from <b>Ranchi, India</b> 🇮🇳 <br/>
+
 Currently building <b>ChaseFree AI</b> — an AI invoicing assistant for freelancers.
 </p>
 
@@ -36,9 +36,6 @@ An AI invoicing assistant for freelancers, focused on late-payment follow-ups an
 
 **Current stack**
 - Next.js
-- Supabase
-- NVIDIA NIM
-- Playwright
 
 **Current focus**
 - Product polish
@@ -69,7 +66,6 @@ An AI invoicing assistant for freelancers, focused on late-payment follow-ups an
 ## 📌 Selected Projects
 
 - **[ai-invoise](https://github.com/abhi478jeetur-rgb/ai-invoise)** — ChaseFree AI, an invoicing assistant for freelancers
-- **[stremeni-ai](https://github.com/abhi478jeetur-rgb/stremeni-ai)** — a cross-platform AI keyboard experiment
 - **[video_machine](https://github.com/abhi478jeetur-rgb/video_machine)** — a Python-based video automation project
 - **[hubber-group-website](https://github.com/abhi478jeetur-rgb/hubber-group-website)** — a modern website project with polished UI work
 - **[awesome-developer-tools](https://github.com/abhi478jeetur-rgb/awesome-developer-tools)** — a curated developer tools collection
