@@ -20,6 +20,10 @@
 <a href="https://peerlist.io/abhijeetkuumar"><img src="https://img.shields.io/badge/Peerlist-0b0d16?style=for-the-badge&logo=peerlist&logoColor=2FD39A" alt="Peerlist" /></a>
 <a href="https://www.freelancer.com/u/abhijeetk371"><img src="https://img.shields.io/badge/Freelancer-0b0d16?style=for-the-badge&logo=freelancer&logoColor=29B2FE" alt="Freelancer" /></a>
 
+<br/>
+
+**🌐 Portfolio → [abhijeet-portfolio-orpin.vercel.app](https://abhijeet-portfolio-orpin.vercel.app/)**
+
 </div>
 
 <br/>
@@ -53,6 +57,16 @@
 <br/>
 
 ## Things I've built.
+
+### ⭐ Featured · [ChaseFree AI](https://ai-invoise.vercel.app) — my first product
+An AI invoicing and payment-chasing assistant for freelancers. Create invoices in seconds, track who owes you, and let AI write and send polite Gmail reminders so you stop chasing clients yourself. The live demo runs on sample data, so you can click through everything without signing up.
+
+`Next.js 16` `Supabase` `NVIDIA NIM · Llama` `Gmail reminders`
+
+<a href="https://ai-invoise.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-%E2%86%97-E23345?style=flat-square&labelColor=0b0d16" alt="live demo" /></a>
+<a href="https://abhijeet-portfolio-orpin.vercel.app/#work"><img src="https://img.shields.io/badge/On%20my%20portfolio-%E2%86%97-4FB3E8?style=flat-square&logo=vercel&labelColor=0b0d16" alt="portfolio" /></a>
+
+<br/>
 
 <table>
 <tr>
