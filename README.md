@@ -140,6 +140,20 @@ A Python pipeline that automates the boring parts of making videos.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧹 [env-saaf](https://www.npmjs.com/package/env-saaf) — my first npm package
+A zero-dependency env validator for Node.js. Typed values instead of string surprises (no more `"false"` is truthy, no more `"3000" + 1 = "30001"`), every config error listed at once, a CLI that diffs your code against `.env.example`, and secret masking for safe logs.
+
+`Node.js` `npm package` `zero-dependency` `CLI`
+
+<a href="https://www.npmjs.com/package/env-saaf"><img src="https://img.shields.io/badge/npm-env--saaf-CB3837?style=flat-square&logo=npm&labelColor=0b0d16" alt="npm" /></a>
+<a href="https://abhi478jeetur-rgb.github.io/env-saaf/"><img src="https://img.shields.io/badge/Landing%20page-%E2%86%97-E23345?style=flat-square&labelColor=0b0d16" alt="landing page" /></a>
+<a href="https://github.com/abhi478jeetur-rgb/env-saaf"><img src="https://img.shields.io/badge/Code-repo-4FB3E8?style=flat-square&logo=github&labelColor=0b0d16" alt="code" /></a>
+
+</td>
+</tr>
 </table>
 
 <p align="center"><a href="https://abhijeet-portfolio-orpin.vercel.app/gallery.html"><b>Explore the full gallery ↗</b></a></p>
