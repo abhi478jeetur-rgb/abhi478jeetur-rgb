@@ -141,7 +141,7 @@ A Python pipeline that automates the boring parts of making videos.
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🧹 [env-saaf](https://www.npmjs.com/package/env-saaf) — my first npm package
 A zero-dependency env validator for Node.js. Typed values instead of string surprises (no more `"false"` is truthy, no more `"3000" + 1 = "30001"`), every config error listed at once, a CLI that diffs your code against `.env.example`, and secret masking for safe logs.
@@ -153,6 +153,16 @@ A zero-dependency env validator for Node.js. Typed values instead of string surp
 <a href="https://github.com/abhi478jeetur-rgb/env-saaf"><img src="https://img.shields.io/badge/Code-repo-4FB3E8?style=flat-square&logo=github&labelColor=0b0d16" alt="code" /></a>
 
 </td>
+<td width="50%" valign="top">
+
+### 📚 [Study Hub](https://study-hub-abhi478jeetur-rgbs-projects.vercel.app) — my study tools, one home
+A growing collection of small single-file study tools: a paste-and-read RSVP speed reader, physics question practice with 175 questions, and a timed revision race mode. New tools keep joining the same page as I build them.
+
+`HTML` `JavaScript` `study tools` `speed reading`
+
+<a href="https://study-hub-abhi478jeetur-rgbs-projects.vercel.app"><img src="https://img.shields.io/badge/Live%20site-%E2%86%97-E23345?style=flat-square&labelColor=0b0d16" alt="live site" /></a>
+<a href="https://github.com/abhi478jeetur-rgb/study-hub"><img src="https://img.shields.io/badge/Code-repo-4FB3E8?style=flat-square&logo=github&labelColor=0b0d16" alt="code" /></a>
+
 </tr>
 </table>
 
